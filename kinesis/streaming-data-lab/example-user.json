@@ -1,0 +1,53 @@
+"results": [{
+    "gender": "female",
+    "name": {
+        "title": "Miss",
+        "first": "Alyssa",
+        "last": "Medina"
+    },
+    "location": {
+        "street": {
+            "number": 2051,
+            "name": "Walnut Hill Ln"
+        },
+        "city": "Australian Capital Territory",
+        "state": "South Australia",
+        "country": "Australia",
+        "postcode": 8073,
+        "coordinates": {
+            "latitude": "-82.9852",
+            "longitude": "24.9877"
+        },
+        "timezone": {
+            "offset": "+5:00",
+            "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+        }
+    },
+    "email": "alyssa.medina@example.com",
+    "dob": {
+        "date": "1979-06-16T21:14:51.483Z",
+        "age": 41
+    },
+    "registered": {
+        "date": "2009-08-27T05:36:02.405Z",
+        "age": 11
+    },
+    "phone": "02-5439-4424",
+    "cell": "0451-757-404",
+    "id": {
+        "name": "TFN",
+        "value": "703378891"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/6.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    },
+    "nat": "AU"
+}], "info": {
+    "seed": "a3bd8d13cd0a095e",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+}
+}
