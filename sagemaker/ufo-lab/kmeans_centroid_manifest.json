@@ -1,0 +1,20 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://ufo-sighting-bucket/results/kmeans_centroid.csv"
+            ]
+        },
+        {
+            "URIPrefixes": [
+                "s3://ufo-sighting-bucket/results/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
